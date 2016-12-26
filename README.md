@@ -1,7 +1,7 @@
 elm
 ==================
 
-Docker image with the Elm's 0.17.0 version installed.
+Docker image with the Elm's 0.18.0 version installed.
 
 Docker hub: https://hub.docker.com/r/morais/elm/
 
